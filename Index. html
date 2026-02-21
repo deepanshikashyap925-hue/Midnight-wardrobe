@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Baby Pink Gothic Wardrobe</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>🌸 Midnight Wardrobe</h1>
+
+<div class="game">
+
+<img id="character" src="images/style1.png">
+
+<div class="buttons">
+<button onclick="changeDress(1)">Dress 1</button>
+<button onclick="changeDress(2)">Dress 2</button>
+<button onclick="changeDress(3)">Dress 3</button>
+<button onclick="changeDress(4)">Dress 4</button>
+<button onclick="changeDress(5)">Dress 5</button>
+</div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
