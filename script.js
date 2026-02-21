@@ -1,4 +1,4 @@
 function changeDress(number) {
-  document.getElementById("character").src =
-    "images/style" + number + ".png";
+  document.getElementById("dress").src =
+    "images/dress" + number + ".png";
 }
